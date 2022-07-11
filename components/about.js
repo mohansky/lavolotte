@@ -18,6 +18,7 @@ export default function About() {
                 src={homepage.banner.image}
                 width={720}
                 height={405}
+                layout="responsive"
                 className="img-fluid"
                 alt="La Volotte"
               />
@@ -34,6 +35,7 @@ export default function About() {
                 src={homepage.about.image}
                 width={720}
                 height={720}
+                layout="responsive"
                 className="img-fluid"
                 alt="La Volotte"
               />

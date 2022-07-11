@@ -20,6 +20,7 @@ export default function Footer() {
                     className="img-fluid"
                     width={100}
                     height={100}
+                    layout="responsive"
                     alt={Footerdata.footer.title}
                   />
                 </a>

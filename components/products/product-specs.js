@@ -14,6 +14,7 @@ export default function ProductSpecs({ menge, nadel, laenge }) {
             src="/images/nadelstaerke.png"
             width={20}
             height={10}
+            layout="responsive"
             alt={nadel}
           />
           <span className="ps-2">{nadel}</span>

@@ -18,6 +18,7 @@ export default function Header() {
                   src="/images/lavolottelogo.png"
                   width={60}
                   height={60}
+                  layout="responsive"
                   alt="La Volotte"
                 />
               </a>

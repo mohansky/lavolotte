@@ -11,6 +11,7 @@ export default function ProductCardImage({ slug, title, img }) {
             src={img}
             width={240}
             height={240}
+            layout="responsive"
             alt={title}
             className="card-img-top"
           />

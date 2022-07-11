@@ -74,6 +74,7 @@ export default function Gallery() {
               src={item.image}
               width={480}
               height={640}
+              layout="responsive"
               className="img-fluid"
               alt={item.name}
             />

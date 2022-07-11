@@ -22,6 +22,7 @@ export default function ProductBody({dprice, priceBefore, cprice, cpricetext, me
               src="/images/nadelstaerke.png"
               width={20}
               height={10}
+              layout="responsive"
               alt={nadel}
             />
             {/* &nbsp;{product.nadel} <br/> */}
