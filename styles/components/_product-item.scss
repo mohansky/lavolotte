@@ -1,0 +1,39 @@
+/* Product Item page */
+
+.product-title{
+  overflow: hidden;
+  white-space: nowrap;
+  text-overflow: ellipsis; 
+}
+
+.product-description{
+  overflow: hidden;
+  white-space: nowrap;
+  text-overflow: ellipsis;
+  margin-bottom: 0;
+}
+
+.slick-list { 
+  border: 1px solid var(--lv-primary); 
+  border-radius: 5px;
+}
+
+.slick-dots {  
+  position: relative !important;
+ }
+
+.slick-dots li {
+  width: 4rem !important;
+  height: 4rem !important;
+  border: 1px solid var(--lv-primary) !important;
+  border-radius: 5px;
+  & img{
+    border-radius: 5px !important; 
+    height: auto;
+    max-width: 100%;
+  }
+}
+
+.gallery{
+  display: flex;
+}
