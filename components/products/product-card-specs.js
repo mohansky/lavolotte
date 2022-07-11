@@ -14,7 +14,7 @@ export default function ProductCardSpecs({ description, menge, nadel }) {
             alt={nadel}
             width={20}
             height={10}
-            layout="responsive"
+            layout="fixed"
           />
         </span> 
         {nadel}  
