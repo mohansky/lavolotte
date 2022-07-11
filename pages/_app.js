@@ -1,5 +1,4 @@
 import "../styles/index.scss";
-import "../styles/custom.scss";
 import "bootstrap/dist/css/bootstrap.min.css";
 import "@icon/themify-icons/themify-icons.css";
 import "slick-carousel/slick/slick.css";
