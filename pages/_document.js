@@ -20,9 +20,9 @@ export default class MyDocument extends Document {
           <script defer type="text/javascript" src="https://cdn.kiprotect.com/klaro/0.7/klaro.js"/>
           <link rel="stylesheet" href="https://cdn.kiprotect.com/klaro/0.7/klaro.min.css" /> */}
 
-          {/* <link rel="preconnect" href="https://app.snipcart.com" /> */}
-          {/* <link rel="preconnect" href="https://cdn.snipcart.com" /> */}
-          {/* <link rel="stylesheet" strategy="afterInteractive" href="https://cdn.snipcart.com/themes/v3.0.21/default/snipcart.css" /> */}
+           <link rel="preconnect" href="https://app.snipcart.com" /> 
+           <link rel="preconnect" href="https://cdn.snipcart.com" />
+           <link rel="stylesheet" strategy="afterInteractive" href="https://cdn.snipcart.com/themes/v3.0.21/default/snipcart.css" />
 
           {/* <link rel="preconnect" href="https://fonts.googleapis.com"/>
           <link rel="preconnect" href="https://fonts.gstatic.com" crossOrigin="true"/> */}
