@@ -1,0 +1,270 @@
+@use './components/header';
+@use './components/cta';
+@use './components/product-list';
+@use './components/product-item';
+@use './components/form';
+@use './components/btn';
+@use './components/content';
+@use './components/margins';
+@use './custom';
+
+
+:root {
+  --lv-primary: #59b41d;
+  --lv-secondary: #397213;
+  --lv-bg-menu: #ffffff;
+  --lv-bg-secondary: #bfbfbf;
+  --lv-bg-form: #e6e6e6;
+  --lv-bg-footer: #404040;
+  --lv-border: #d1d1d1;
+  --lv-font-headings:#222222;
+  --lv-font-paragraph: #333333;
+  --lv-font-family-headings: "Quicksand", sans-serif;
+  --lv-font-family-paragraph: "Quicksand", sans-serif;
+  --lv-gradient: linear-gradient(
+    180deg,
+    rgba(255, 255, 255, 0.15),
+    rgba(255, 255, 255, 0)
+  );
+}
+
+
+body {
+  line-height: 1.4;
+  font-family: var(--lv-font-family-paragraph);
+  -webkit-font-smoothing: antialiased;
+  font-size: 2rem;
+  color: var(--lv-font-paragraph);
+  font-display: swap;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  color: var(--lv-font-headings);
+  font-family: var(--lv-font-family-headings);
+  font-weight: 400;
+  line-height: 1.2;
+  font-display: swap;
+}
+
+p, .paragraph {
+  font-weight: 400;
+  color: var(--lv-font-paragraph);
+  font-size: 1.1rem;
+  line-height: 1.7;
+  font-family: var(--lv-font-family-paragraph);
+  font-display: swap;
+}
+
+h1, .h1 { 
+  font-size: 3.5rem;
+}
+
+h2, .h2 { 
+  font-size: 3rem;
+}
+
+h3, .h3 { 
+  font-size: 2.6rem;
+}
+
+h4, .h4 { 
+  font-size: 2.2rem;
+}
+
+h5, .h5 {
+  font-size: 1.8rem;
+}
+
+h6, .h6 {
+  font-size: 1.4rem;
+}
+
+.text-accent{
+  color: var(--lv-primary) !important;
+}
+
+.bg-accent{
+  background-color: var(--lv-primary) !important;
+}
+
+.social-icons a{
+  color: var(--lv-primary) !important;
+  font-size: 1.6rem;
+  & :hover{
+    color: var(--lv-secondary) !important;
+    -webkit-transition: .2s ease;
+    transition: .2s ease;
+  }
+}
+
+.search{
+  border-color: var(--lv-primary) !important;
+}
+ 
+a,
+a:hover,
+a:focus {
+  text-decoration: none !important;
+  color: #000!important;
+}
+
+a,
+button,
+select {
+  cursor: pointer;
+  -webkit-transition: .2s ease;
+  transition: .2s ease;
+}
+
+a:focus,
+button:focus,
+select:focus {
+  outline: 0;
+}
+
+a:hover {
+  color: var(--lv-primary) !important;
+}
+
+.slick-slide {
+  outline: 0;
+}
+
+.section {
+  padding-top: 100px;
+  padding-bottom: 100px;
+}
+
+.section-sm {
+  padding-top: 5px;
+  padding-bottom: 50px;
+}
+
+.bg-cover {
+  background-size: cover;
+  background-position: center center;
+  background-repeat: no-repeat;
+}
+
+.border-primary {
+  border-color: #D1D1D1 !important;
+}
+
+/* overlay */
+.overlay {
+  position: relative;
+}
+
+.overlay::before {
+  position: absolute;
+  content: '';
+  height: 100%;
+  width: 100%;
+  top: 0;
+  left: 0;
+  background: #000;
+  opacity: .5;
+}
+
+.outline-0 {
+  outline: 0 !important;
+}
+
+.d-unset {
+  display: unset !important;
+}
+
+.bg-gradient-lv {
+  background: linear-gradient(27deg, var(--lv-primary) 25%, var(--lv-secondary) 100%) !important;
+  z-index: 2;
+}
+
+.hover-shadow {
+  -webkit-transition: .2s ease;
+  transition: .2s ease;
+}
+
+.hover-shadow:hover {
+  -webkit-box-shadow: 0 8px 10px rgba(33, 33, 33, 0.2) !important;
+  box-shadow: 0 8px 10px rgba(33, 33, 33, 0.2) !important;
+}
+
+.text-lv-primary {
+  color: var(--lv-primary)!important;
+}
+
+.text-lv-secondary {
+  color: var(--lv-secondary)!important;
+}
+
+.text-color {
+  color: var(--lv-font-paragraph);
+}
+
+.img-border {
+  position: relative;
+  display: inline-block;
+}
+
+.img-border::before {
+  position: absolute;
+  content: "";
+  height: 100%;
+  width: 100%;
+  border: 1px solid var(--lv-primary);
+  top: 5%;
+  left: 5%;
+  border-radius: inherit;
+  z-index: -1;
+}
+
+.content-center {
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  -webkit-transform: translate(-50%, -50%);
+          transform: translate(-50%, -50%);
+}
+
+/* gallery */
+.gallery-slider { 
+  border: none !important; 
+}
+
+.gallery-slider .slick-list { 
+  border: none !important;
+}
+  
+.slick-prev::before, .slick-next::before{
+  font-family: "themify";
+  content: "\e67f";
+}
+ 
+.quoted {
+  position: relative;
+  padding: 0 10px;
+}
+
+.quoted::before {
+  position: absolute;
+  font-family: "themify";
+  content: "\e67f";
+  left: -10px;
+  top: -5px;
+}
+
+.quoted::after {
+  position: absolute;
+  font-family: "themify";
+  content: "\e67e";
+  right: -10px;
+  top: -5px;
+}
+
+.breadcrumb-item{
+  text-transform: uppercase;
+}
+
+.addy{
+  width: 20ch !important;
+}
