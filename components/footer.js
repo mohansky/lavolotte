@@ -28,7 +28,7 @@ export default function Footer() {
               </Link>
             </div>
             <div className="col-md-4 col-sm-6 ">
-              <h5 className="font-weight-medium mb-4"> Rechtliches </h5>
+              <h6 className="fs-4 mb-4"> Rechtliches </h6>
               <ul className="list-unstyled mb-5">
                 {menulist.menu.rechtliches.map((item, index) => (
                   <li key={index}>
@@ -40,7 +40,7 @@ export default function Footer() {
                   </li>
                 ))}
               </ul>
-              <h5 className="font-weight-medium mb-4"> Links </h5>
+              <h6 className="fs-4 mb-4"> Links </h6>
               <ul className="list-unstyled">
                 {menulist.menu.main.map((item, index) => (
                   <li key={index}>
@@ -54,13 +54,13 @@ export default function Footer() {
               </ul>
             </div>
             <div className="col-md-4 col-sm-6 mb-5">
-              <h5 className="font-weight-medium mb-4">
+              <h6 className="fs-4 mb-4">
                 {Footerdata.footer.contactdetailstitle}
-              </h5>
+              </h6>
               <Address />
             </div>
             <div className="col-lg-4 col-md-5">
-              <h5 className="font-weight-medium mb-4">Kontakt</h5>
+              <h6 className="fs-4 mb-4">Kontakt</h6>
               <Form />
             </div>
           </div>
