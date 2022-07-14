@@ -1,7 +1,7 @@
 import Document, { Html, Head, Main, NextScript } from "next/document";
 import { GTM_ID } from "../lib/gtm";
 import Script from "next/script";
-import * as klaroConfig from '../klaro'
+// import * as klaroConfig from '../klaro'
  
 
 export default class MyDocument extends Document {
@@ -16,9 +16,9 @@ export default class MyDocument extends Document {
             'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
             })(window,document,'script','dataLayer', '${GTM_ID}');`,}}/> */}
 
-          <script defer type="text/javascript" src="../klaro.js" data-config="klaroConfig"/>  
+          {/* <script defer type="text/javascript" src="../klaro.js" data-config="klaroConfig"/>  
           <script defer type="text/javascript" src="https://cdn.kiprotect.com/klaro/0.7/klaro.js"/>
-          <link rel="stylesheet" href="https://cdn.kiprotect.com/klaro/0.7/klaro.min.css" />
+          <link rel="stylesheet" href="https://cdn.kiprotect.com/klaro/0.7/klaro.min.css" /> */}
 
           {/* <link rel="preconnect" href="https://app.snipcart.com" /> */}
           <link rel="preconnect" href="https://cdn.snipcart.com" />
@@ -39,7 +39,7 @@ export default class MyDocument extends Document {
         </noscript> */}
         {/* <!-- End Google Tag Manager (noscript) --> */}
         <body>
-        <div id="klaro"></div>
+        {/* <div id="klaro"></div> */}
           <Main />
           <NextScript />
         </body>

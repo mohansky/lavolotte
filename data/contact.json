@@ -25,13 +25,13 @@
       {
         "link": "https://www.facebook.com/Lavolotte/",
         "icon": "ph:facebook-logo",
-        "name": "facebook"
+        "name": "facebook link"
       },
 
       {
         "link": "https://www.instagram.com/la_volotte_wollladen/",
         "icon": "ph:instagram-logo",
-        "name": "instagram"
+        "name": "instagram link"
       }
     ],
     "opennigHour": {
