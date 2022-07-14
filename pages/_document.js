@@ -43,7 +43,7 @@ export default class MyDocument extends Document {
           <Main />
           <NextScript />
         </body>
-        <Script async strategy="afterInteractive" src="https://cdn.snipcart.com/themes/v3.0.31/default/snipcart.js"/>
+        <script async strategy="afterInteractive" src="https://cdn.snipcart.com/themes/v3.0.31/default/snipcart.js"/>
         <div id="snipcart" loadstrategy="on-user-interaction" data-config-modal-style="side" data-api-key={`${process.env.SNIPCART_KEY}`} hidden >
         </div>
       </Html>
