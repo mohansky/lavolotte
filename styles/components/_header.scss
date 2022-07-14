@@ -132,6 +132,30 @@
   padding: 20px;
 }
 
+
+.navbar-toggler{
+  border: none !important;
+  outline: none !important;
+  & .navbar-toggler-icon{ 
+    background: url('https://api.iconify.design/ph/x-fill.svg?color=%23222') no-repeat center center / contain !important;
+    width: 2rem;
+    height: 2rem;
+    transition: 2s ease-in-out;
+  }
+  &.collapsed{
+      outline: none !important;
+    & .navbar-toggler-icon{ 
+      background: url('https://api.iconify.design/ph/list-fill.svg?color=%23222') no-repeat center center / contain !important;
+      width: 2rem;
+      height: 2rem;
+      transition: 2s ease-in-out; 
+    }
+  }
+  &:focus{
+    box-shadow: none;
+  }
+} 
+
 /*Brands Navbar*/
 
 .navbar-brand {
