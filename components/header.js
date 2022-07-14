@@ -15,7 +15,7 @@ export default function Header() {
             <Link href="/">
               <a className="navbar-brand mx-5">
                 <Image
-                  className="img-fluid"
+                  className="logo"
                   src="/images/lavolottelogo.png"
                   width={75}
                   height={75}
