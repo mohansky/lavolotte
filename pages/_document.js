@@ -21,12 +21,12 @@ export default class MyDocument extends Document {
           <link rel="stylesheet" href="https://cdn.kiprotect.com/klaro/0.7/klaro.min.css" /> */}
 
           {/* <link rel="preconnect" href="https://app.snipcart.com" /> */}
-          <link rel="preconnect" href="https://cdn.snipcart.com" />
+          {/* <link rel="preconnect" href="https://cdn.snipcart.com" /> */}
           <link rel="stylesheet" href="https://cdn.snipcart.com/themes/v3.0.21/default/snipcart.css" />
 
-          <link rel="preconnect" href="https://fonts.googleapis.com"/>
-          <link rel="preconnect" href="https://fonts.gstatic.com" crossOrigin="true"/>
-          <link href="https://fonts.googleapis.com/css2?family=Quicksand&display=swap" rel="stylesheet"/> 
+          {/* <link rel="preconnect" href="https://fonts.googleapis.com"/>
+          <link rel="preconnect" href="https://fonts.gstatic.com" crossOrigin="true"/> */}
+          <link rel="preload" as="font" href="https://fonts.googleapis.com/css2?family=Quicksand&display=swap"/> 
         </Head>
         {/* <!-- Google Tag Manager (noscript) --> */}
         {/* <noscript>
@@ -43,7 +43,7 @@ export default class MyDocument extends Document {
           <Main />
           <NextScript />
         </body>
-        <script async src="https://cdn.snipcart.com/themes/v3.0.31/default/snipcart.js"/>
+        <Script async strategy="afterInteractive" src="https://cdn.snipcart.com/themes/v3.0.31/default/snipcart.js"/>
         <div id="snipcart" loadstrategy="on-user-interaction" data-config-modal-style="side" data-api-key={`${process.env.SNIPCART_KEY}`} hidden >
         </div>
       </Html>
