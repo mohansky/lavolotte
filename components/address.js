@@ -5,7 +5,7 @@ import { Icon } from "@iconify/react";
 export default function Address() {
   return (
     <>
-      <h3 className="mb-1"> {contact.title}</h3>
+      <h6 className="fs-4 mb-1"> {contact.title}</h6>
       <p>{contact.contactdetailstitle}</p>
       <ul className="list-unstyled mb-5">
         {contact.contactdetails.map((item, index) => (
@@ -23,7 +23,7 @@ export default function Address() {
           </li>
         ))}
       </ul>
-      <h5>{contact.socialtitle} </h5>
+      <h6 className="fs-4 mb-1">{contact.socialtitle} </h6>
       <ul className="list-inline">
         {contact.social.map((item, index) => (
           <li className="list-inline-item social-icons me-3" key={index}>
