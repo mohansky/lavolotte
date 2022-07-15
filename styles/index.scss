@@ -28,7 +28,6 @@
   );
 }
 
-
 body {
   line-height: 1.4;
   font-family: var(--lv-font-family-paragraph);
@@ -101,11 +100,13 @@ h6, .h6 {
   border-color: var(--lv-primary) !important;
 }
  
-a,
-a:hover,
-a:focus {
+a{
   text-decoration: none !important;
-  color: #000!important;
+  color: var(--lv-font-headings) !important;
+  &:hover,
+  &:focus { 
+  color: var(--lv-primary) !important;
+}
 }
 
 a,

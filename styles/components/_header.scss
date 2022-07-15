@@ -11,11 +11,8 @@
   border: 0;
   padding: 10px 0;
   color: var(--lv-font-paragraph);
-  font-weight: 500;
-}
-
-.nav-tabs .nav-item .nav-link.active {
-  color: var(--lv-primary);
+  font-weight: 500;  
+ 
 }
 
 .navigation {
@@ -38,7 +35,7 @@
 }
 
 .nav-bg {
-  border-bottom: 1px solid #D1D1D1;
+  border-bottom: 1px solid var(--lv-primary);
 }
 
 .nav-bg .navbar {
