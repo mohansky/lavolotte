@@ -36,24 +36,30 @@ export default function Product({ product }) {
               </title>
               {/* <link rel="shortcut icon" href="/favicons/favicon.ico" /> */}
               {/* <meta property="og:image" content={product.ogImage.url} /> */}
+              <meta property="og:description" content={product.shortDescription}/>
+              <meta property="og:image:height" content="205"/>
+              <meta property="og:image:width" content="300"/>
+              <meta property="og:image" content={product.img} />
+              <meta name="keywords" content={`${product.brand}, ${product.tags}`}/>
+
             </Head>
             <BtnBack />
             <section className="section pt-0">
               <div className="container"> 
-                  <div className="row">
-                    <div className="col-lg-5 mb-4 mb-lg-0">
-                      <ProductSlider images={product.images} />
-                    </div>
+                <div className="row">
+                  <div className="col-lg-5 mb-4 mb-lg-0">
+                    <ProductSlider images={product.images} />
+                  </div>
 
-                    <div className="col-lg-5 offset-lg-1">
-                      <ProductHead title={product.title} brand={product.brand} />
+                  <div className="col-lg-5 offset-lg-1">
+                    <ProductHead title={product.title} brand={product.brand} />
 
-                      <div className="my-4">
-                        <ProductPrice
-                          dprice={product.dprice}
-                          priceBefore={product.priceBefore}
-                          cprice={product.cprice}
-                          cpricetext={product.cpricetext}
+                    <div className="my-4">
+                      <ProductPrice
+                        dprice={product.dprice}
+                        priceBefore={product.priceBefore}
+                        cprice={product.cprice}
+                        cpricetext={product.cpricetext}
                         />
 
                         <ProductSpecs menge={product.menge} nadel={product.nadel} laenge={product.laenge} />
