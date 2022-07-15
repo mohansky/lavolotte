@@ -31,9 +31,9 @@ export default function Header() {
             <Nav className="mx-5">
               <ul className="navbar-nav text-center">
                 {Menuitems.menu.main.map((item, index) => (
-                  <li className="nav-item" key={index}> 
+                  <li className="nav-item fw-bold" key={index}> 
                       <Link href={item.URL}>
-                        <a className="nav-link" onClick={() => setExpanded(false)}>{item.name}</a>
+                        <a className="nav-link text-uppercase" onClick={() => setExpanded(false)}>{item.name}</a>
                       </Link> 
                   </li>
                 ))}
