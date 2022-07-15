@@ -17,7 +17,7 @@ farben : "1600|1602|1604|1605|1607|1608|1609|1612|1615|1616|1617|1618|1619|1622|
 # product Price
 dprice: "14,90"
 price: "14.90"
-priceBefore: "19,50"
+priceBefore: "19,50 €"
 menge: "100g"
 
 # Product Short Description
