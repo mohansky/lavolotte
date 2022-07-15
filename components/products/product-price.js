@@ -18,7 +18,7 @@ export default function ProductPrice({
         ) : null}
         {priceBefore ? (
           <p className="mb-0">
-            <span className="text-lv-secondary fs-3">
+            <span className="text-lv-secondary fs-5">
               <s>{priceBefore}</s>
             </span>
           </p>
