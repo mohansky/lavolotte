@@ -11,21 +11,21 @@ export default function ProductPrice({
       <div className="my-4">
         {dprice ? (
           <p className="mb-0">
-            <span className="text-lv-secondary">
+            <span className="text-lv-secondary fs-4">
               {dprice} €
             </span>
           </p>
         ) : null}
         {priceBefore ? (
           <p className="mb-0">
-            <span className="text-lv-secondary">
+            <span className="text-lv-secondary fs-3">
               <s>{priceBefore}</s>
             </span>
           </p>
         ) : null}
         {cprice ? (
           <p className="mb-0">
-            <span className="text-lv-secondary">
+            <span className="text-lv-secondary fs-4">
               {cprice}
               <small className="ps-1"> {cpricetext} </small>
             </span>
