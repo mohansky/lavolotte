@@ -32,12 +32,12 @@ type: "products"
 
 # type must be "products"
 brand: "Isager"
-img: "/images/products/isager/eco-soft.jpg"  
+img: "/images/products/isager/eco-soft-1.jpg"  
 
 # product Images
 # first image will be shown in the product page
 images:
-  - "/images/products/isager/eco-soft.jpg"
+  - "/images/products/isager/eco-soft-1.jpg"
 
 # product colors
 farbimages:
