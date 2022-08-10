@@ -2,11 +2,12 @@
 title: "Wool finest"
 date: 2019-10-17T11:22:16+06:00
 draft: false
-category: "schoppel"
-tags: ["merino"]
-nadel: "2,5-3,5"
-nadels: ["2,5", "3,0", "3,5"] 
+categories: "schoppel"
+tags: ["Merino"]
+nadels: ["2,5", "3,0", "3,5"]
+nadel: "2,5-3,5" 
 laenge: "400m"	
+
 
 # meta description
 description : "100% extrafeine  Schurwolle (Merino)"
@@ -15,8 +16,8 @@ description : "100% extrafeine  Schurwolle (Merino)"
 farben : "Waldgrenze|Basalt|Runde Rot|Rechtes Licht|Whiskey|Hut ab|Nachtfalter|Samt + Sonders|Papaya|Raw Denim|Meeresblick|Rosenkavalier|Sand am Meer|Bernstein zimmer|Ultra Rot|Raw Chocolate"
 
 # product Price
-dprice: "15,90"
-price: "15.9"
+dprice: "16,50"
+price: "16.5"
 priceBefore: ""
 menge: "100g"
 
@@ -24,7 +25,7 @@ menge: "100g"
 shortDescription: "100% extrafeine  Schurwolle (Merino), feine Wolle , toll für Pullover... "
 
 #product ID
-productID: 2007
+productID: "2007"
 
 # type must be "products"
 type: "products"
@@ -37,8 +38,7 @@ img: "/images/products/schoppel/wool-finest-1.jpg"
 # first image will be shown in the product page
 images:
   - "/images/products/schoppel/wool-finest-1.jpg"
-  - "/images/products/schoppel/wool-finest-2.jpg"
-  # - "/images/products/schoppel/wool-finest-1.jpg"
+  - "/images/products/schoppel/wool-finest-2.jpg" 
 
 # product colors
 farbimages:

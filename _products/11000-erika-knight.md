@@ -2,11 +2,12 @@
 title: "Studio Linen"
 date: 2019-10-17T11:22:16+06:00
 draft: false
-category: "erika-knight"
-tags: ["leinen"]
-nadel: "3,0-4,0"
-nadels: ["3,0", "3,5", "4,0"]  
-laenge: "120m"
+categories: "erika-knight"
+tags: ["Leinen", "3,0-4,0"]
+nadels: ["3,0", "4,0"]
+nadel: "3,0-4,0" 
+laenge: "120m"	
+
 
 # meta description
 description : "85% recyceltes Leinen und 15% belgisches Premium Leinen"
@@ -24,7 +25,7 @@ menge: "50g"
 shortDescription: "85% recyceltes Leinen und 15% belgisches Premium Leinen, toller Griff."
 
 #product ID
-productID: "11000"
+productID: 11000
 
 # type must be "products"
 type: "products"
@@ -36,9 +37,7 @@ img: "/images/products/erika-knight/studio-linen-1.jpg"
 # product Images
 # first image will be shown in the product page
 images:
-  - "/images/products/erika-knight/studio-linen-1.jpg"
-  # - "/images/products/erika-knight/studio-linen-1.jpg"
-  # - "/images/products/erika-knight/studio-linen-1.jpg" 
+  - "/images/products/erika-knight/studio-linen-1.jpg" 
 
 # product colors
 farbimages:

@@ -2,10 +2,10 @@
 title: "Crazy Zauberball"
 date: 2019-10-17T11:22:16+06:00
 draft: false
-category: "schoppel"
-tags: ["schurwolle", "polyamid"]
-nadel: "2,0-3,0"
-nadels: ["2,0", "2,5", "3,0"] 
+categories: "schoppel"
+tags: ["Schurwolle", "Polyamid"]
+nadels: [ "2,0", "2,5", "3,0"]
+nadel: "2,0-3,0" 
 laenge: "420m"	
 
 
@@ -17,8 +17,8 @@ farben : "Herbstwind|U-Boot|Stone-Washed|Herbstsonne|Frische Fische|Flussbett|Fl
 
 
 # product Price
-dprice: "12,90"
-price: "12.90"
+dprice: "13,90"
+price: "13.9"
 priceBefore: ""
 menge: "100g"
 
@@ -26,7 +26,7 @@ menge: "100g"
 shortDescription: "75% Schurwolle und 25% Polyamid, beliebtes Sockengarn in tollen Farbverläufen"
 
 #product ID
-productID: 2015
+productID: "2015"
 
 # type must be "products"
 type: "products"
@@ -115,7 +115,4 @@ farbimages:
   farbtitle: " Tapetenwechsel"
 - farbimg: "/images/farben/schoppel/crazy-zauberball/Zauberball®Crazy 2438_ Indigo.jpg"
   farbtitle: " Indigo"
-
 ---
-
-

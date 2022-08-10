@@ -2,11 +2,12 @@
 title: "Soft Silk"
 date: 2019-10-17T11:22:16+06:00
 draft: false
-category: "bc-garn"
-tags: ["bouretteseide", "seide"] 
-nadel: "3,0-3,5"
-nadels: ["3,0", "3,5"] 
-laenge: "350m"
+categories: "bc-garn"
+tags: ["Bouretteseide", "Seide"] 
+nadels: ["3,0", "3,5"]
+nadel: "3,0-3,5" 
+laenge: "350m"	
+
 
 # meta description
 description : "100% Bouretteseide"
@@ -15,8 +16,8 @@ description : "100% Bouretteseide"
 farben : "001|003|004|005|006|007|008|009|010|011|012|013|014|015|016|017|018|019|020|021|022|023|024|025|026|027|028|029|030|031|033|034|035|036|037|039|040|041|042|043|044|045|046|048|049|050|051|054"
 
 # product Price
-dprice: "12,90"
-price: "12.9"
+dprice: "14,50"
+price: "14.50"
 priceBefore: ""
 menge: "100g"
 
@@ -24,7 +25,7 @@ menge: "100g"
 shortDescription: "100% Bouretteseide"
 
 #product ID
-productID: 3002
+productID: "3002"
 
 # type must be "products"
 type: "products"
@@ -38,8 +39,8 @@ img: "/images/products/bc-garn/soft-silk-1.jpg"
 images:
   - "/images/products/bc-garn/soft-silk-1.jpg"
   - "/images/products/bc-garn/soft-silk-2.jpg"
-  - "/images/products/bc-garn/soft-silk-3.jpg"
-  - "/images/products/bc-garn/soft-silk-4.jpg"
+  - "/images/products/bc-garn/soft-silk-3.JPG"
+  - "/images/products/bc-garn/soft-silk-4.JPG"
 
 # product colors
 farbimages:

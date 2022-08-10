@@ -2,14 +2,15 @@
 title: "Feinheit"
 date: 2019-10-17T11:22:16+06:00
 draft: false
-category: "atelier-zitron"
-tags: ["schurwolle"]	
+categories: "atelier-zitron"
+tags: ["Schurwolle", "3.0-3.5"]	
+nadels: ["3,0", "3,5"]
 nadel: "3,0-3,5" 
-nadels: ["3,0", "3,5"] 
 laenge: "360m"	
 
+
 # meta description
-description : "100% feinste Schurwolle "
+description : "100% feinste Schurwolle."
 
 # Farben
 farben : "1600|1602|1604|1605|1607|1608|1609|1612|1615|1616|1617|1618|1619|1622|1624|1627|1626|1623|1625"
@@ -17,14 +18,14 @@ farben : "1600|1602|1604|1605|1607|1608|1609|1612|1615|1616|1617|1618|1619|1622|
 # product Price
 dprice: "14,90"
 price: "14.90"
-priceBefore: "19,50 €"
+priceBefore: "19,90"
 menge: "100g"
 
 # Product Short Description
-shortDescription: "100% feinste Schurwolle, Babygarn, Ausverkauf"
+shortDescription: "100% feinste Schurwolle, Babygarn, Ausverkaufspreis solange Vorrat reicht."
 
 #product ID
-productID: 1018
+productID: "1018"
 
 # type must be "products"
 type: "products"
@@ -37,8 +38,7 @@ img: "/images/products/atelier-zitron/feinheit-1.jpg"
 # first image will be shown in the product page
 images:
   - "/images/products/atelier-zitron/feinheit-1.jpg"
-  # - "/images/products/atelier-zitron/feinheit-1.jpg"
-  # - "/images/products/atelier-zitron/feinheit-1.jpg"
+  
 # product colors
 farbimages:
 - farbimg: "/images/farben/atelier-zitron/feinheit/feinheit_3177_1600_1.jpg"	

@@ -2,10 +2,10 @@
 title: "Trekking Sport"
 date: 2019-10-17T11:22:16+06:00
 draft: false
-category: "atelier-zitron"
-tags: ["schurwolle", "polyamid"]	
+categories: "atelier-zitron"
+tags: ["Schurwolle", "Polyamid"]	
+nadels: ["2,0", "2,5", "3,0"]
 nadel: "2,0-3,0" 
-nadels: ["2,0", "2,5", "3,0"] 
 laenge: "420m"	
 
 
@@ -16,8 +16,8 @@ description : "75% Schurwolle, 25% PA "
 farben : "1421|1422|1424|1423|1427|1428|1426|1416|1417|1418|1402|1403|1404|1406|1407|1431|1400|1401|1430|1437|1460|1475|1477|1480|1491|1498"
 
 # product Price
-dprice: "7,95"
-price: "7.95"
+dprice: "8,50"
+price: "8.5"
 priceBefore: ""
 menge: "100g"
 
@@ -25,7 +25,7 @@ menge: "100g"
 shortDescription: "75% Schurwolle, 25% PA, einfarbiges Sockengarn"
 
 #product ID
-productID: 1017
+productID: "1017"
 
 # type must be "products"
 type: "products"
@@ -38,8 +38,6 @@ img: "/images/products/atelier-zitron/trekking-sport-1.jpg"
 # first image will be shown in the product page
 images:
   - "/images/products/atelier-zitron/trekking-sport-1.jpg"
-  # - "/images/products/atelier-zitron/trekking-sport-1.jpg"
-  # - "/images/products/atelier-zitron/trekking-sport-1.jpg"
 
 # product colors
 farbimages:
@@ -95,7 +93,4 @@ farbimages:
   farbtitle: "1491"
 - farbimg: "/images/farben/atelier-zitron/trekking-sport/trekking_sport_9138_1498_1.jpg"	
   farbtitle: "1498"
-  
 ---
-
-

@@ -2,11 +2,12 @@
 title: "Eco Denim"
 date: 2019-10-17T11:22:16+06:00
 draft: false
-category: "mondial"
-tags: ["baumwolle-recycling"]
-nadel: "2,5-3,5"
-nadels: ["2,5", "3,0", "3,5"]  
-laenge: "155m"
+categories: "mondial"
+tags: ["Baumwolle-recycling"]
+nadels: ["2,5","3,0", "3,5"]
+nadel: "2,5-3,5" 
+laenge: "155m"	
+
 
 # meta description
 description : "100% Baumwolle (Recyclinggarn) "
@@ -88,4 +89,4 @@ farbimages:
 
 ---
 
-
+#### Nicht alle Farben von Eco Denim sind lieferbar. Bitte anfragen.

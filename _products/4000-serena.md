@@ -38,8 +38,7 @@ img: "/images/products/manos-del-uruguay/serena-1.jpg"
 # first image will be shown in the product page
 images:
   - "/images/products/manos-del-uruguay/serena-1.jpg"
-  - "/images/products/manos-del-uruguay/serena-2.jpg"
-  # - "/images/products/manos-del-uruguay/serena-1.jpg"
+  - "/images/products/manos-del-uruguay/serena-2.jpg" 
 
 # product colors
 farbimages:

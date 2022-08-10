@@ -2,10 +2,10 @@
 title: "Admiral Hanf"
 date: 2019-10-17T11:22:16+06:00
 draft: false
-category: "schoppel"
-tags: ["schurwolle", "polyamid", "hanf"]
-nadel: "2,0-3,0"
-nadels: ["2,0", "2,5", "3,0"] 
+categories: "schoppel"
+tags: ["Schurwolle", "Polyamid", "Hanf"]
+nadels: ["2,0", "2,5", "3,0"]
+nadel: "2,0-3,0" 
 laenge: "420m"	
 
 
@@ -17,8 +17,8 @@ farben : "Roter Ocker|Stachelbeere|Soft Pink|Malachit|Workwear|Elefantenhaut|Raw
 
 
 # product Price
-dprice: "10,90"
-price: "10.90"
+dprice: "11,90"
+price: "11.90"
 priceBefore: ""
 menge: "100g"
 
@@ -26,7 +26,7 @@ menge: "100g"
 shortDescription: "67% Schurwolle, 23% Polyamid, 10% Hanf"
 
 #product ID
-productID: 2019
+productID: "2019"
 
 # type must be "products"
 type: "products"
@@ -38,9 +38,7 @@ img: "/images/products/schoppel/admiral-hanf-1.jpg"
 # product Images
 # first image will be shown in the product page
 images:
-  - "/images/products/schoppel/admiral-hanf-1.jpg"
-  # - "/images/products/schoppel/admiral-hanf-1.jpg"
-  # - "/images/products/schoppel/admiral-hanf-1.jpg"
+  - "/images/products/schoppel/admiral-hanf-1.jpg" 
 
 # product colors
 farbimages:

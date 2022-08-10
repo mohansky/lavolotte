@@ -2,11 +2,10 @@
 title: "Extraklasse"
 date: 2019-10-17T11:22:16+06:00
 draft: false
-category: "atelier-zitron"
-tags: ["mohair", "3.5-4.5"]	
-
-nadel: "3,5-4,5"
-nadels: ["3,5" , "4,0", "4,5"] 
+categories: "atelier-zitron"
+tags: ["Mohair"]	
+nadels: ["3,5", "4,0", "4,5"]
+nadel: "3,5-4,5" 
 laenge: "225m"	
 
 
@@ -26,7 +25,7 @@ menge: "25g"
 shortDescription: "100% Mohair, feines Mohair, ideal als Beilaufgarn"
 
 #product ID
-productID: 1010
+productID: "1010"
 
 # type must be "products"
 type: "products"
@@ -83,7 +82,4 @@ farbimages:
   farbtitle: "4510"
 - farbimg: "/images/farben/atelier-zitron/extraklasse/Extraklasse_9208_4511_1.jpg"	
   farbtitle: "4511"
-
 ---
-
-

@@ -38,7 +38,6 @@ img: "/images/products/mondial/bio-soft-1.jpg"
 images:
   - "/images/products/mondial/bio-soft-1.jpg"
   - "/images/products/mondial/bio-soft-2.jpg"
-  # - "/images/products/mondial/bio-soft-1.jpg"
 
 # product colors
 farbimages:

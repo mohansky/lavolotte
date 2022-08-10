@@ -2,11 +2,12 @@
 title: "Edition 6"
 date: 2019-10-17T11:22:16+06:00
 draft: false
-category: "schoppel"
-tags: ["schurwolle"]
-nadel: "2,0-3,0"
-nadels: ["2,0", "2,5", "3,0"] 
+categories: "schoppel"
+tags: ["Schurwolle" ]
+nadels: [ "2,0", "2,5", "3,0"]
+nadel: "2,0-3,0" 
 laenge: "300m"	
+
 
 # meta description
 description : "100% feine Schurwolle (Superwash)  "
@@ -15,8 +16,8 @@ description : "100% feine Schurwolle (Superwash)  "
 farben : "Domino|Englischer Garten|Bodenprobe|Waschtag|Wärmebild|Taupunkt|Gartentage|Strandcafé|Ipanema Beach|Spurenelemente|Tante Emma|Blauschleier|Rosetta|Teils Heiter|Holzklasse"
 
 # product Price
-dprice: "7,75"
-price: "7.75"
+dprice: "8,25"
+price: "8.25"
 priceBefore: " "
 menge: "50g"
 
@@ -24,7 +25,7 @@ menge: "50g"
 shortDescription: "100% feine Schurwolle (Superwash) aus Patagonien, sehr weiches Farbverlaufsgarn"
 
 #product ID
-productID: 2012
+productID: "2012"
 
 # type must be "products"
 type: "products"

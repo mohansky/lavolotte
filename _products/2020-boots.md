@@ -2,11 +2,12 @@
 title: "Boots"
 date: 2019-10-17T11:22:16+06:00
 draft: false
-category: "schoppel"
-tags: ["wolle", "baumwolle", "polyamid"]
-nadel: "2,0-3,0"
-nadels: ["2,0", "2,5", "3,0"] 
-laenge: "420m"
+categories: "schoppel"
+tags: ["Wolle", "Baumwolle", "Polyamid"]
+nadels: ["2,0", "2,5", "3,0"]
+nadel: "2,0-3,0" 
+laenge: "420m"	
+
 
 # meta description
 description : "44% Wolle(Superwash), 42% Baumwolle, 14% Polyamid"
@@ -16,8 +17,8 @@ farben : "Fisherman s friend|ein Spritzer Limette|Im Schuhgeschäft|Platz an der
 
 
 # product Price
-dprice: "11,50"
-price: "11.50"
+dprice: "11,90"
+price: "11.90"
 priceBefore: ""
 menge: "100g"
 
@@ -25,7 +26,7 @@ menge: "100g"
 shortDescription: "44% Wolle(Superwash), 42% Baumwolle, 14% Polyamid"
 
 #product ID
-productID: 2020
+productID: "2020"
 
 # type must be "products"
 type: "products"
@@ -38,8 +39,7 @@ img: "/images/products/schoppel/boots-1.jpg"
 # first image will be shown in the product page
 images:
   - "/images/products/schoppel/boots-1.jpg"
-  - "/images/products/schoppel/boots-2.jpg"
-  # - "/images/products/schoppel/boots-1.jpg"
+  - "/images/products/schoppel/boots-2.jpg" 
 
 # product colors
 farbimages:

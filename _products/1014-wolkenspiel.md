@@ -38,7 +38,6 @@ img: "/images/products/atelier-zitron/wolkenspiel-1.jpg"
 images:
   - "/images/products/atelier-zitron/wolkenspiel-1.jpg"
   - "/images/products/atelier-zitron/wolkenspiel-2.jpg"
-  # - "/images/products/atelier-zitron/wolkenspiel-1.jpg"
 
 # product colors
 farbimages:

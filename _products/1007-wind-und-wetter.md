@@ -2,10 +2,10 @@
 title: "Wind und Wetter"
 date: 2019-10-17T11:22:16+06:00
 draft: false
-category: "atelier-zitron"
-tags: ["schurwolle"]	
+categories: "atelier-Zitron"
+tags: ["Schurwolle"]	
+nadels: ["8,0","9,0"]
 nadel: "8,0-9,0" 
-nadels: ["8,0", "8,5","9,0"] 
 laenge: "100m"	
 
 
@@ -16,8 +16,8 @@ description : "100% Schurwolle "
 farben : "9550|9551|9552|9553|9554|9555|9556|9557|9558|9559|9561|9562|9563|9564|9565|9566|9567|9569|9574|9570|9571|9573|9572"
 
 # product Price
-dprice: "14,50"
-price: "14.50"
+dprice: "14,95"
+price: "14.95"
 priceBefore: ""
 menge: "100g"
 
@@ -25,7 +25,7 @@ menge: "100g"
 shortDescription: "100% Schurwolle, dickes, weiches Garn für Winteraccessoires"
 
 #product ID
-productID: 1007
+productID: "1007"
 
 # type must be "products"
 type: "products"
@@ -37,9 +37,7 @@ img: "/images/products/atelier-zitron/wind-und-wetter-1.jpg"
 # product Images
 # first image will be shown in the product page
 images:
-  - "/images/products/atelier-zitron/wind-und-wetter-1.jpg"
-  # - "/images/products/atelier-zitron/wind-und-wetter-1.jpg"
-  # - "/images/products/atelier-zitron/wind-und-wetter-1.jpg"
+  - "/images/products/atelier-zitron/wind-und-wetter-1.jpg" 
 
 # product colors
 farbimages:
@@ -95,7 +93,4 @@ farbimages:
   farbtitle: "01"
 - farbimg: "/images/farben/atelier-zitron/wind-und-wetter/Wind_und_Wetter_7299_04_1.jpg"	
   farbtitle: "04"
-
 ---
-
-

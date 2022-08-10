@@ -2,11 +2,12 @@
 title: "Linas"
 date: 2019-10-17T11:22:16+06:00
 draft: false
-category: "midara"
-tags: ["leinen"]
-nadel: "2,25-3,5"
-nadels: ["2,0", "2,5", "3,0", "3,5"] 
-laenge: "450-600m"
+categories: "midara"
+tags: ["Leinen"]		
+nadels: [ "2,0", "2,5", "3,0", "3,5"]
+nadel: "2,25-3,5" 
+laenge: "450-600m"	
+
 
 # meta description
 description : "100% Leinen "
@@ -16,15 +17,15 @@ farben : "110|125|130|155|300|318|355|360|387|400|412|415|480|495|620|647|650|65
 
 # product Price
 dprice: "5,00"
-price: "5.0"
-priceBefore: " "
+price: "5.00"
+priceBefore: "7,20"
 menge: "100g"
 
 # Product Short Description
 shortDescription: "100% Leinen, Leinengarn für sommerliche Projekte im Ausverkauf!"
 
 #product ID
-productID: 5000
+productID: "5000"
 
 # type must be "products"
 type: "products"
@@ -38,8 +39,6 @@ img: "/images/products/midara/linas-1.png"
 # first image will be shown in the product page
 images:
   - "/images/products/midara/linas-1.png"
-  # - "/images/products/midara/linas-1.png"
-  # - "/images/products/midara/linas-1.png"
 
 # product colors
 farbimages:

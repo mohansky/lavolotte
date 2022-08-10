@@ -2,11 +2,12 @@
 title: "Bio Balance"
 date: 2019-10-17T11:22:16+06:00
 draft: false
-category: "bc-garn"
-tags: ["schurwolle-gots", "baumwolle-kba"] 
-nadel: "3,0-4,0"
-nadels: ["3,0", "3,5", "4,0"] 
+categories: "bc-garn"
+tags: ["schurwolle-GOTS", "baumwolle-KbA", "3.0-4.0"] 
+nadels: ["3,0", "3,5", "4,0"]
+nadel: "3,0-4,0" 
 laenge: "225m"	
+
 
 # meta description
 description : "55% Schurwolle und 45% Baumwolle "
@@ -15,16 +16,16 @@ description : "55% Schurwolle und 45% Baumwolle "
 farben : "01|02|03|04|05|06|07|08|09|10|11|12|13|14|15|16|17|18|19|20|21|22|23|24|25|26|27|28|29|30"
 
 # product Price
-dprice: "6,50"
-price: "6.5"
-priceBefore: ""
+dprice: "5,00"
+price: "5.00"
+priceBefore: "6,50"
 menge: "50g"
 
 # Product Short Description
 shortDescription: "55% Schurwolle und 45% Baumwolle, ideales Garn für die Übergangszeit, schön für Babysachen"
 
 #product ID
-productID: 3001
+productID: "3001"
 
 # type must be "products"
 type: "products"
@@ -36,9 +37,9 @@ img:  "/images/products/bc-garn/bio-balance-1.jpg"
 # product Images
 # first image will be shown in the product page 
 images:
-  -  "/images/products/bc-garn/bio-balance-1.jpg"
-  -  "/images/products/bc-garn/bio-balance-2.jpg"
-  -  "/images/products/bc-garn/bio-balance-3.jpg"
+  - "/images/products/bc-garn/bio-balance-1.jpg"
+  - "/images/products/bc-garn/bio-balance-2.jpg"
+  - "/images/products/bc-garn/bio-balance-3.jpg"
 
 # product colors
 farbimages:

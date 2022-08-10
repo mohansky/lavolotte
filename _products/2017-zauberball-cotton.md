@@ -2,11 +2,12 @@
 title: "Zauberball Cotton"
 date: 2019-10-17T11:22:16+06:00
 draft: false
-category: "schoppel"
-tags: ["baumwolle"]
-nadel: "2,0-3,0"
-nadels: ["2,0", "2,5", "3,0"] 
+categories: "schoppel"
+tags: ["Baumwolle"]
+nadels: [ "2,0", "2,5", "3,0"]
+nadel: "2,0-3,0" 
 laenge: "420m"	
+
 
 # meta description
 description : "100% Baumwolle aus Griechenland"
@@ -16,8 +17,8 @@ farben : "Echte Abwechslung| Altes Rom| Rosige Zeiten| Junges Gemüse| Plan B| A
 
 
 # product Price
-dprice: "11,50"
-price: "11.50"
+dprice: "11,90"
+price: "11.90"
 priceBefore: ""
 menge: "100g"
 
@@ -25,7 +26,7 @@ menge: "100g"
 shortDescription: "100% Baumwolle aus Griechenland, tolle Farbverläufe "
 
 #product ID
-productID: 2017
+productID: "2017"
 
 # type must be "products"
 type: "products"
@@ -37,9 +38,7 @@ img: "/images/products/schoppel/zauberball-cotton-1.jpg"
 # product Images
 # first image will be shown in the product page
 images:
-  - "/images/products/schoppel/zauberball-cotton-1.jpg"
-  # - "/images/products/schoppel/zauberball-cotton-1.jpg"
-  # - "/images/products/schoppel/zauberball-cotton-1.jpg"
+  - "/images/products/schoppel/zauberball-cotton-1.jpg" 
 
 # product colors
 farbimages:
@@ -71,7 +70,4 @@ farbimages:
   farbtitle: "  Feldversuch"
 - farbimg: "/images/farben/schoppel/zauberball-cotton/Zauberball® Cotton 2441_ Frühlingsanfang.jpg"	
   farbtitle: "  Frühlingsanfang"
-
 ---
-
-

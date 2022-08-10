@@ -2,11 +2,12 @@
 title: "Zauberball"
 date: 2019-10-17T11:22:16+06:00
 draft: false
-category: "schoppel"
-tags: ["schurwolle", "polyamid"]
-nadel: "2,0-3,0"
-nadels: ["2,0", "2,5", "3,0"] 
+categories: "schoppel"
+tags: ["Schurwolle", "Polyamid" ]
+nadels: [ "2,0", "2,5", "3,0"]
+nadel: "2,0-3,0" 
 laenge: "420m"	
+
 
 # meta description
 description : "75% Schurwolle und 25% PA"
@@ -15,8 +16,8 @@ description : "75% Schurwolle und 25% PA"
 farben : "Schatten|Stone-Washed|Fuchsienbeet|Frische Fische|durch die Blume|Charisma|Deine blaue Augen!|Oktoberfest|Zauberwald|Monochrom|Smoking Area|Bunte Gasse|Herbstzeitlos|Türkismühle|Tonspur|Liminosa|Aldebaran"
 
 # product Price
-dprice: "12,50"
-price: "12.5"
+dprice: "13,50"
+price: "13.5"
 priceBefore: ""
 menge: "100g"
 
@@ -24,7 +25,7 @@ menge: "100g"
 shortDescription: "75% Schurwolle und 25% PA"
 
 #product ID
-productID: 2002
+productID: "2002"
 
 # type must be "products"
 type: "products"

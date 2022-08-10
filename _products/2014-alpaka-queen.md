@@ -2,11 +2,12 @@
 title: "Alpaka Queen"
 date: 2019-10-17T11:22:16+06:00
 draft: false
-category: "schoppel"
-tags: ["alpaka", "schurwolle"]
-nadel: "4,0-4,5"
-nadels: ["4,0", "4,5"] 
+categories: "schoppel"
+tags: ["Alpaka", "Schurwolle" ]
+nadels: [ "4,0", "4,5"]
+nadel: "4,0-4,5" 
 laenge: "200m"	
+
 
 # meta description
 description : "50% Alpaka, 50% Schurwolle"
@@ -16,8 +17,8 @@ farben : "Rotkappe|Amethyst|Camel|Ocker|Schwarz|Beige-Meliert|Stein|Alpakabraun|
 
 
 # product Price
-dprice: "12,50"
-price: "12.5"
+dprice: "13,50"
+price: "13.5"
 priceBefore: ""
 menge: "100g"
 
@@ -25,7 +26,7 @@ menge: "100g"
 shortDescription: "50% Alpaka, 50% Schurwolle, feines, weiches gewalktes Garn für Herbst und Winter "
 
 #product ID
-productID: 2014
+productID: "2014"
 
 # type must be "products"
 type: "products"
@@ -39,7 +40,6 @@ img: "/images/products/schoppel/alpaka-queen-1.jpg"
 images:
   - "/images/products/schoppel/alpaka-queen-1.jpg"
   - "/images/products/schoppel/alpaka-queen-2.jpg"
-  # - "/images/products/schoppel/alpaka-queen-1.jpg"
 
 # product colors
 farbimages:

@@ -2,11 +2,12 @@
 title: "Edition 3"
 date: 2019-10-17T11:22:16+06:00
 draft: false
-category: "schoppel"
-tags: ["schurwolle"]
-nadel: "3,0-4,0"
-nadels: ["3,0", "3,5", "4,0"] 
+categories: "schoppel"
+tags: ["Schurwolle" ]
+nadels: [ "3,0", "3,5", "4,0"]
+nadel: "3,0-4,0" 
 laenge: "150m"	
+
 
 # meta description
 description : "100% feine Schurwolle (Superwash) "
@@ -15,8 +16,8 @@ description : "100% feine Schurwolle (Superwash) "
 farben : "Domino|Englischer Garten|Bodenprobe|Waschtag|Wärmebild|Taupunkt|Gartentage|Strandcafé|Ipanema Beach|Spurenelemente|Tante Emma|Blauschleier|Rosetta|Teils Heiter|Holzklasse"
 
 # product Price
-dprice: "7,45"
-price: "7.45"
+dprice: "7,95"
+price: "7.95"
 priceBefore: " "
 menge: "50g"
 
@@ -24,7 +25,7 @@ menge: "50g"
 shortDescription: "100% feine Schurwolle (Superwash)aus Patagonien, sehr weiches Farbverlaufsgarn"
 
 #product ID
-productID: 2011
+productID: "2011"
 
 # type must be "products"
 type: "products"
@@ -37,8 +38,6 @@ img: "/images/products/schoppel/edition-3-1.jpg"
 # first image will be shown in the product page
 images:
   - "/images/products/schoppel/edition-3-1.jpg"
-  # - "/images/products/schoppel/edition-3-1.jpg"
-  # - "/images/products/schoppel/edition-3-1.jpg"
 
 # product colors
 farbimages:
@@ -72,7 +71,4 @@ farbimages:
   farbtitle: "Teils Heiter"
 - farbimg: "/images/farben/schoppel/edition-3/Edition 3 2442_ Holzklasse.jpg"	
   farbtitle: "Holzklasse"
-
 ---
-
-

@@ -2,11 +2,12 @@
 title: "Zauberwolle"
 date: 2019-10-17T11:22:16+06:00
 draft: false
-category: "schoppel"
-tags: ["schurwolle"]
-nadel: "3,0-3,5"
-nadels: ["3,0", "3,5"] 
+categories: "schoppel"
+tags: ["Schurwolle" ]
+nadels: [ "3,0", "3,5"]
+nadel: "3,0-3,5" 
 laenge: "250m"	
+
 
 # meta description
 description : "100% Schurwolle"
@@ -15,8 +16,8 @@ description : "100% Schurwolle"
 farben : "Herbstwind|Schatten|Stone-Washed|Fuchsienbeet|Fliederduft|Papagei|Kleiner Fuchs|Gebrannte Mandeln|Alter Schwede|Teezeremonie|Gelbfilter|Rush Hour|Waldfrau|Streiflichter|Kichererbse|Aldebaran|Hochofen|Alles Paletti"
 
 # product Price
-dprice: "11,50"
-price: "11.5"
+dprice: "13,50"
+price: "13.5"
 priceBefore: ""
 menge: "100g"
 
@@ -24,7 +25,7 @@ menge: "100g"
 shortDescription: "100% Schurwolle, schönes Verlaufsgarn mit etwas Griff "
 
 #product ID
-productID: 2013
+productID: "2013"
 
 # type must be "products"
 type: "products"
@@ -79,8 +80,4 @@ farbimages:
   farbtitle: "Hochofen"
 - farbimg: "/images/farben/schoppel/zauberwolle/Zauberwolle 2437_ Alles Paletti.jpg"	
   farbtitle: "Alles Paletti"
-
-
 ---
-
-

@@ -2,10 +2,10 @@
 title: "Trekking XXL"
 date: 2019-10-17T11:22:16+06:00
 draft: false
-category: "atelier-zitron"
-tags: ["schurwolle", "polyamid"]	
+categories: "atelier-zitron"
+tags: ["Schurwolle", "Polyamid"]	
+nadels: ["2,0", "2,5", "3,0"]
 nadel: "2,0-3,0" 
-nadels: ["2,0", "2,5", "3,0"] 
 laenge: "420m"	
 
 
@@ -17,8 +17,8 @@ description : "75% Schurwolle, 25% PA "
 farben : "J2|J1|J3|706|703|709|704|694|693|692|691|605|608|622|698|670|661|660|724|722|707|712|723|610|612|617|619|713|714|715|677|719|710|716|717|588|700|701|702|680|686|688|689|687|118|572|580|581"
 
 # product Price
-dprice: "8,50"
-price: "8.5"
+dprice: "8,85"
+price: "8.85"
 priceBefore: " "
 menge: "100g"
 
@@ -26,13 +26,13 @@ menge: "100g"
 shortDescription: "75% Schurwolle, 25% PA, Sockengarn in vielen Farbverläufen"
 
 #product ID
-productID: 1016
+productID: "1016"
 
 # type must be "products"
 type: "products"
 
 # type must be "products"
-brand: "Atelier Zitron"
+brand: "atelier-zitron"
 img: "/images/products/atelier-zitron/trekking-xxl-1.jpg"   
 
 # product Images
@@ -141,7 +141,4 @@ farbimages:
   farbtitle: "580"
 - farbimg: "/images/farben/atelier-zitron/trekking-xxl/Trekking_XXL_9816_581_1.jpg"	
   farbtitle: "581"
-
 ---
-
-

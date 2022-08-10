@@ -2,11 +2,12 @@
 title: "Pamir"
 date: 2019-10-17T11:22:16+06:00
 draft: false
-category: "seehawer-siebert-naturfasern"
-tags: ["schurwolle", "kaschmir"]
-nadel: "3,0-4,0"
-nadels: ["3,0", "3,5", "4,0"]  
+categories: "seehawer-siebert-naturfasern"
+tags: ["Schurwolle", "Kaschmir","3.0-4.0"]
+nadels: ["3,0", "3,5", "4,0"]
+nadel: "3,0-4,0" 
 laenge: "400m"	
+
 
 # meta description
 description : "80 % Schurwolle ( Merino), 20 % Kaschmir"
@@ -24,7 +25,7 @@ menge: "100g"
 shortDescription: "80 % Schurwolle ( Merino), 20 % Kaschmir, wunderbar weiches Garn für Babiesachen, Winteraccessoires"
 
 #product ID
-productID: 8006
+productID: "8006"
 
 # type must be "products"
 type: "products"
@@ -36,9 +37,7 @@ img: "/images/products/seehawer-siebert-naturfasern/pamir-1.png"
 # product Images
 # first image will be shown in the product page
 images:
-  - "/images/products/seehawer-siebert-naturfasern/pamir-1.png"
-  # - "/images/products/seehawer-siebert-naturfasern/pamir-1.png"
-  # - "/images/products/seehawer-siebert-naturfasern/pamir-1.png"
+  - "/images/products/seehawer-siebert-naturfasern/pamir-1.png" 
 
 # product colors
 farbimages:

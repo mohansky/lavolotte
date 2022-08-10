@@ -2,10 +2,10 @@
 title: "Zauberball Crazy Cotton"
 date: 2019-10-17T11:22:16+06:00
 draft: false
-category: "schoppel"
-tags: ["baumwolle"]
-nadel: "3,0-4,0"
-nadels: ["3,0", "3,5", "4,0"]  
+categories: "schoppel"
+tags: ["Baumwolle"]
+nadels: [ "3,0", "3,5", "4,0"]
+nadel: "3,0-4,0" 
 laenge: "210m"	
 
 # meta description
@@ -14,10 +14,9 @@ description : "100% Baumwolle aus Griechenland"
 # Farben
 farben : "Urgestein|Sommermärchen|Maskenzauber|Meer und mehr|Erntezeit|Wasserzeichen|Mondfahrt|Feldversuch|Frühlingsanfang"
 
-
 # product Price
-dprice: "12,50"
-price: "12.50"
+dprice: "12,90"
+price: "12.9"
 priceBefore: ""
 menge: "100g"
 
@@ -25,7 +24,7 @@ menge: "100g"
 shortDescription: "100% Baumwolle aus Griechenland, lange Farbverläufe"
 
 #product ID
-productID: 2018
+productID: "2018"
 
 # type must be "products"
 type: "products"

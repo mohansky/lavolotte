@@ -2,10 +2,10 @@
 title: "Cotton Ball"
 date: 2019-10-17T11:22:16+06:00
 draft: false
-category: "schoppel"
-tags: ["baumwolle"]
-nadel: "2,0-3,0"
-nadels: ["2,0", "2,5", "3,0"] 
+categories: "schoppel"
+tags: ["Baumwolle", "2.0-3.0"]
+nadels: [ "2,0", "2,5", "3,0"]
+nadel: "2,0-3,0" 
 laenge: "420m"	
 
 
@@ -17,8 +17,8 @@ farben : " Moonlighter| Basalt|Bordeaux| Armeeblau| Tinte| Schilf| Sand am Meer|
 
 
 # product Price
-dprice: "12,90"
-price: "12.90"
+dprice: "11,90"
+price: "11.90"
 priceBefore: ""
 menge: "100g"
 
@@ -26,7 +26,7 @@ menge: "100g"
 shortDescription: "100% Baumwolle aus Griechenland,leichte Melierung im Farbton"
 
 #product ID
-productID: 2016
+productID: "2016"
 
 # type must be "products"
 type: "products"
@@ -39,8 +39,7 @@ img: "/images/products/schoppel/cotton-ball-1.jpg"
 # first image will be shown in the product page
 images:
   - "/images/products/schoppel/cotton-ball-1.jpg"
-  - "/images/products/schoppel/cotton-ball-2.jpg"
-  # - "/images/products/schoppel/cotton-ball-1.jpg"
+  - "/images/products/schoppel/cotton-ball-2.jpg" 
 
 # product colors
 farbimages:
@@ -64,8 +63,4 @@ farbimages:
   farbtitle: "  Lucid"
 - farbimg: "/images/farben/schoppel/cotton-ball/Cotton Ball 2446_ Himbeersorbet.jpg"	
   farbtitle: "  Himbeersorbet"
-
-
 ---
-
-

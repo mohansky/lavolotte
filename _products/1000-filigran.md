@@ -2,10 +2,10 @@
 title: "Filigran"
 date: 2019-10-17T11:22:16+06:00
 draft: false
-category: "atelier-zitron"
-tags: ["schurwolle"]
+categories: "atelier-zitron"
+tags: ["Schurwolle"]
+nadels: ["2,5", "3,0", "3,5"]
 nadel: "2,5-3,5" 
-nadels: ["2,5","3,0", "3,5"] 
 laenge: "600m"	
 
 
@@ -13,11 +13,11 @@ laenge: "600m"
 description : "100% Schurwolle"
 
 # Farben
-farben : "17[+2.00]|15[+2.00]|16[+2.00]|2522|66[+2.00]|12[+2.00]|02[+2.00]|2501|2505|2511|2515|2523|2530|2534"
+farben : "17[+2.45]|15[+2.45]|16[+2.45]|2522|66[+2.45]|12[+2.45]|02[+2.45]|2501|2505|2511|2515|2523|2530|2534"
 
 # product Price
 dprice: "17,50"
-cprice: "19,50 €"
+cprice: "19,95 €"
 cpricetext: "(handgefärbt)"
 price: "17.50"
 priceBefore: " "
@@ -27,7 +27,7 @@ menge: "100g"
 shortDescription: "100% Schurwolle, ideal für feine Tücher, Stulpen..."
 
 #product ID
-productID: 1000
+productID: "1000"
 
 # type must be "products"
 type: "products"
@@ -39,8 +39,9 @@ img: "/images/products/atelier-zitron/filigran-1.jpg"
 # product Images
 # first image will be shown in the product page
 images:
-  - "/images/products/atelier-zitron/filigran-1.jpg"
-  - "/images/products/atelier-zitron/filigran-2.JPG" 
+  - "/images/products/atelier-zitron/filigran.jpg"
+  - "/images/products/atelier-zitron/filigran-2.JPG"
+  - "/images/products/atelier-zitron/filigran-3.JPG"
   - "/images/products/atelier-zitron/filigran-4.jpg"
   - "/images/products/atelier-zitron/filigran-5.jpg"
 

@@ -2,12 +2,10 @@
 title: "Traumseide"
 date: 2019-10-17T11:22:16+06:00
 draft: false
-category: "atelier-zitron"
-tags: ["maulbeerseide"]
-
-
+categories: "atelier-zitron"
+tags: ["Maulbeerseide"]
+nadels: ["2,5","3,0", "3,5"]
 nadel: "2,0-3,5" 
-nadels: ["2,0", "2,5","3,0", "3,5"] 
 laenge: "800m"	
 
 
@@ -18,8 +16,8 @@ description : "100% Maulbeerhaspelseide"
 farben : "053|050|052|054|051|055|034|041|040|038|001|002|003|004|005|008|011|020|024|057|056|059|058"
 
 # product Price
-dprice: "31,95"
-price: "31.95"
+dprice: "32,95"
+price: "32.95"
 priceBefore: ""
 menge: "100g"
 
@@ -27,7 +25,7 @@ menge: "100g"
 shortDescription: "100% Maulbeerhaspelseide, toll für Tücher, Sommerstrick, als Beilaufgarn "
 
 #product ID
-productID: 1005
+productID: "1005"
 
 # type must be "products"
 type: "products"
@@ -40,8 +38,8 @@ img: "/images/products/atelier-zitron/traumseide-1.jpg"
 # first image will be shown in the product page
 images:
   - "/images/products/atelier-zitron/traumseide-1.jpg"
-  # - "/images/products/atelier-zitron/traumseide-1.jpg"
   - "/images/products/atelier-zitron/traumseide-2.jpg"
+  - "/images/products/atelier-zitron/traumseide-3.jpg"
 
 # product colors
 farbimages:
@@ -91,8 +89,4 @@ farbimages:
   farbtitle: "059"
 - farbimg: "/images/farben/atelier-zitron/traumseide/Traumseide_9836_058_1.jpg"
   farbtitle: "058"
-
-
 ---
-
-

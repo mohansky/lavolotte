@@ -2,12 +2,11 @@
 title: "Understatement"
 date: 2019-10-17T11:22:16+06:00
 draft: false
-category: "atelier-zitron"
-tags: ["schurwolle", "seide" , "tencel"]
+categories: "atelier-zitron"
+tags: ["Schurwolle", "Seide" , "Tencel"]
+nadels: [ "4,0", "3,5"]
 nadel: "3,5-4,0" 
-nadels: ["3,5", "4,0"] 
 laenge: "125m"	
-
 
 # meta description
 description : "30% Schurwolle, 30% Seide, 40% Tencel "
@@ -16,8 +15,8 @@ description : "30% Schurwolle, 30% Seide, 40% Tencel "
 farben : "01|02|03|04|05|06|07|08|09|10|11|12|13|17|14|15|16"
 
 # product Price
-dprice: "7,95"
-price: "7.95"
+dprice: "8,95"
+price: "8.95"
 priceBefore: ""
 menge: "50g"
 
@@ -25,7 +24,7 @@ menge: "50g"
 shortDescription: "30% Schurwolle, 30% Seide, 40% Tencel, glattes Ganzjahresgarn"
 
 #product ID
-productID: 1027
+productID: "1027"
 
 # type must be "products"
 type: "products"
@@ -39,7 +38,6 @@ img: "/images/products/atelier-zitron/understatement-1.jpg"
 images:
   - "/images/products/atelier-zitron/understatement-1.jpg"
   - "/images/products/atelier-zitron/understatement-2.jpg"
-  # - "/images/products/atelier-zitron/understatement-1.jpg"
 
 # product colors
 farbimages:

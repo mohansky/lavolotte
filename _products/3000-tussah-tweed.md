@@ -2,11 +2,12 @@
 title: "Tussah Tweed"
 date: 2019-10-17T11:22:16+06:00
 draft: false
-category: "bc-garn"
-tags: ["tussahseide", "seide"] 
-nadel: "3,0-4,0"
-nadels: ["3,0", "3,5", "4,0"] 
+categories: "bc-garn"
+tags: ["Tussahseide", "Seide"] 
+nadels: ["3,0","3,5", "4,0"]
+nadel: "3,0-4,0" 
 laenge: "250m"	
+
 
 # meta description
 description : "100% Tussahseide "
@@ -24,7 +25,7 @@ menge: "50g"
 shortDescription: "100% Tussahseide, feinste Tussahseide in besonderen Farbmélangen"
 
 #product ID
-productID: 3000
+productID: "3000"
 
 # type must be "products"
 type: "products"

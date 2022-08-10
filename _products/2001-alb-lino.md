@@ -2,10 +2,10 @@
 title: "Alb Lino"
 date: 2019-10-17T11:22:16+06:00
 draft: false
-category: "schoppel"
-tags: ["schurwolle", "leinen"]
-nadel: "3,0-4,0"
-nadels: ["3,0", "3,5", "4,0"] 
+categories: "schoppel"
+tags: ["Schurwolle", "Leinen", "3.0-4.0"]
+nadels: ["3,0","3,5", "4,0"]
+nadel: "3,0-4,0" 
 laenge: "400m"	
 
 
@@ -16,8 +16,8 @@ description : "85% Schurwolle und 15% Leinen "
 farben : "Old Gold|Savanne Mélange|Papaya|Rosé Mélange|Bordeaux|Blau Mélange|Primär-Blau|Marine|Wald|Ocker|Mokkamelange|Schwarzmelange|Mittelgraumelange|Natur"
 
 # product Price
-dprice: "10,50"
-price: "10.5"
+dprice: "11,50"
+price: "11.5"
 priceBefore: " "
 menge: "100g"
 
@@ -25,7 +25,7 @@ menge: "100g"
 shortDescription: "85% Schurwolle und 15% Leinen, tolles Allroundgarn, Wolle von der schwäbischen Alb"
 
 #product ID
-productID: 2001
+productID: "2001"
 
 # type must be "products"
 type: "products"
@@ -39,8 +39,6 @@ img: "/images/products/schoppel/alb-lino-1.jpg"
 # first image will be shown in the product page
 images:
   - "/images/products/schoppel/alb-lino-1.jpg"
-  # - "/images/products/schoppel/alb-lino-1.jpg"
-  # - "/images/products/schoppel/alb-lino-1.jpg"
 
 
 # product colors
@@ -73,10 +71,4 @@ farbimages:
   farbtitle: "Mittelgraumelange"
 - farbimg: "/images/farben/schoppel/alb-lino/ALB Lino 980 Natur.jpg"	
   farbtitle: "Natur"
-
-
-  
 ---
-
-
- 

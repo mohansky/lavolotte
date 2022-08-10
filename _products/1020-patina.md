@@ -1,11 +1,11 @@
 ---
 title: "Patina"
 date: 2019-10-17T11:22:16+06:00
-draft: false
-category: "atelier-zitron"
-tags: ["schurwolle", "viscose"]	
+draft: true
+categories: "atelier-zitron"
+tags: ["Schurwolle", "Viscose"]	
+nadels: ["3,5", "4,0"]
 nadel: "3,5-4,0" 
-nadels: ["3,5", "4,0"] 
 laenge: "110m"	
 
 
@@ -25,21 +25,21 @@ menge: "50g"
 shortDescription: "55% Schurwolle, 45% Viscose, einfädiges, glänzendes Garn, im Ausverkauf, nur noch Restfarben"
 
 #product ID
-productID: 1020
+productID: "1020"
 
 # type must be "products"
 type: "products"
 
 # type must be "products"
 brand: "Atelier Zitron"
-img: "/images/products/atelier-zitron/patina-1.jpg"   
+img: "/images/products/atelier-zitron/patina.jpg"   
 
 # product Images
 # first image will be shown in the product page
 images:
-  - "/images/products/atelier-zitron/patina-1.jpg"
-  # - "/images/products/atelier-zitron/patina-1.jpg"
-  # - "/images/products/atelier-zitron/patina-1.jpg"
+  - image: "/images/products/atelier-zitron/patina.jpg"
+  - image: "/images/products/atelier-zitron/patina.jpg"
+  - image: "/images/products/atelier-zitron/patina.jpg"
 
 # product colors
 farbimages:

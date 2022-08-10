@@ -2,10 +2,10 @@
 title: "Zauberball 100"
 date: 2019-10-17T11:22:16+06:00
 draft: false
-category: "schoppel"
-tags: ["schurwolle"]
-nadel: "2,0-3,0"
-nadels: ["2,0", "2,5", "3,0"] 
+categories: "schoppel"
+tags: ["Schurwolle", "2.0-3.0"]
+nadels: [ "2,0", "2,5", "3,0"]
+nadel: "2,0-3,0" 
 laenge: "400m"	
 
 
@@ -16,8 +16,8 @@ description : "100% Schurwolle "
 farben : "Kunterbunt| Fliederduft| Papagei| Heißes Eisen| Evergreen| Rauchzeichen| Blasser Schimmer| Blaukraut bleibt Blaukraut| Sphinx| Sofaecke| Teezeremonie| Licht im Schacht| Villa Rosa| Red to Go| Blaue Lagune| Schlichte Fichte| Herbstmeister| Komfortzone| Frühblüher| Streiflichter| Kichererbse| Mittelland| Lange Bank| Vitamin C| Waldmeister| Alles Paletti"
 
 # product Price
-dprice: "13,50"
-price: "13.5"
+dprice: "13,90"
+price: "13.9"
 priceBefore: ""
 menge: "100g"
 
@@ -25,7 +25,7 @@ menge: "100g"
 shortDescription: "100% Schurwolle, wunderschöne Farbverläufe, weicher Griff"
 
 #product ID
-productID: 2003
+productID: "2003"
 
 # type must be "products"
 type: "products"
@@ -96,8 +96,4 @@ farbimages:
   farbtitle: " Waldmeister"
 - farbimg: "/images/farben/schoppel/zauberball-100/Zauberball®100 2437_ Alles Paletti.jpg"	
   farbtitle: " Alles Paletti"
-
-
 ---
-
-

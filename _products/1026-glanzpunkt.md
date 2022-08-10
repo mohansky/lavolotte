@@ -1,11 +1,11 @@
 ---
 title: "Glanzpunkt"
 date: 2019-10-17T11:22:16+06:00
-draft: false
-category: "atelier-zitron"
-tags: ["maulbeerseide", "tencel"]	
-nadel: "3,0-3,5"
-nadels: ["3,0", "3,5"] 
+draft: true
+categories: "atelier-zitron"
+tags: ["Maulbeerseide", "Tencel", "3.0-3.5" ]	
+nadels: [ "3,0", "3,5"]
+nadel: "3,0-3,5" 
 laenge: "300m"	
 
 
@@ -16,30 +16,28 @@ description : "60% Maulbeerseide, 40% Modal/ Tencel "
 farben : "8027|8022|8023|8010|8028|8014|8015|8024|8026|8021|8019|8020|8012|"
 
 # product Price
-dprice: "12,95"
-price: "12.95"
+dprice: "Farben und Preise erfragen"
+price: "0"
 priceBefore: "17,95 €"
 menge: "100g"
 
 # Product Short Description
-shortDescription: "60% Maulbeerseide, 40% Modal/ Tencel, ideal für Sommerpullover im Ausverkauf"
+shortDescription: "60% Maulbeerseide, 40% Modal/ Tencel, im Ausverkauf. Farben und Preise erfragen."
 
 #product ID
-productID: 1026
+productID: "1026"
 
 # type must be "products"
 type: "products"
 
 # type must be "products"
 brand: "Atelier Zitron"
-img: "/images/products/atelier-zitron/glanzpunkt-1.jpg"   
+img: "/images/products/atelier-zitron/glanzpunkt.jpg"   
 
 # product Images
 # first image will be shown in the product page
 images:
-  - "/images/products/atelier-zitron/glanzpunkt-1.jpg"
-  # - "/images/products/atelier-zitron/glanzpunkt-1.jpg"
-  # - "/images/products/atelier-zitron/glanzpunkt-1.jpg"
+  - "/images/products/atelier-zitron/glanzpunkt.jpg"
 
 # product colors
 farbimages:  

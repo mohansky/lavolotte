@@ -2,11 +2,12 @@
 title: "El Linio"
 date: 2019-10-17T11:22:16+06:00
 draft: false
-category: "schoppel"
-tags: ["leinen"]
-nadel: "3,0-4,0"
-nadels: ["3,0", "3,5", "4,0"]  
+categories: "schoppel"
+tags: ["Leinen" ]
+nadels: ["3,0", "3,5", "4,0"]
+nadel: "3,0-4,0" 
 laenge: "150m"	
+
 
 # meta description
 description : "100% Leinen "
@@ -15,8 +16,8 @@ description : "100% Leinen "
 farben : "Schwarzarbeiter|Basalt|Ziegelrot|Armeeblau|Tinte|Grünfutter|Schilf|Botenstoff|Sand am Meer|Rosarium|Bernstein zimmer|Lucid|Himbeersorbet|Weiß"
 
 # product Price
-dprice: "6,95"
-price: "6.95"
+dprice: "7,45"
+price: "7.45"
 priceBefore: " "
 menge: "50g"
 
@@ -24,7 +25,7 @@ menge: "50g"
 shortDescription: "100% Leinen, Bändchengarn mit leichtem Farbspiel im Farbton"
 
 #product ID
-productID: 2010
+productID: "2010"
 
 # type must be "products"
 type: "products"
@@ -38,7 +39,6 @@ img: "/images/products/schoppel/el-linio-1.jpg"
 images:
   - "/images/products/schoppel/el-linio-1.jpg"
   - "/images/products/schoppel/el-linio-2.jpg"
-  - "/images/products/schoppel/el-linio-3.jpg"
 
 # product colors
 farbimages:

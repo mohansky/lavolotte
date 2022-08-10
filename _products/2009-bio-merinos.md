@@ -2,11 +2,12 @@
 title: "Bio Merinos"
 date: 2019-10-17T11:22:16+06:00
 draft: false
-category: "schoppel"
-tags: ["schurwolle-gots", "leinen"]
-nadel: "2,5-3,5"
-nadels: ["2,5", "3,0", "3,5"] 
+categories: "schoppel"
+tags: ["Schurwolle (GOTS)", "Leinen"]
+nadels: [ "2,5", "3,0", "3,5"]
+nadel: "2,5-3,5" 
 laenge: "150m"	
+
 
 # meta description
 description : "95% Schurwolle (Merino GOTS) und 5% Leinen "
@@ -15,8 +16,8 @@ description : "95% Schurwolle (Merino GOTS) und 5% Leinen "
 farben : "Bernstein|Senf|Stränge|Feuer|Rot Mélange|Kardinal|Cyclam|Cyclam Mélange|Jeans|Sepia|Sepia Mélange|Schwarzmelange|Graumelange|Weiss-Natur"
 
 # product Price
-dprice: "6,75"
-price: "6.75"
+dprice: "7,50"
+price: "7.5"
 priceBefore: " "
 menge: "50g"
 
@@ -24,7 +25,7 @@ menge: "50g"
 shortDescription: "95% Schurwolle (Merino GOTS) und 5% Leinen, gewalktes und weiches Allround-Garn"
 
 #product ID
-productID: 2009
+productID: "2009"
 
 # type must be "products"
 type: "products"
