@@ -80,7 +80,7 @@ export default function Product({ product }) {
 
                     <div className="col-12 mt-5">
                       <Tabs defaultActiveKey="home" id="farben-tab" className="mb-3 border-bottom-0" >
-                        <Tab eventKey="home" title="Hinweis zu farben auswahl">
+                        <Tab eventKey="home" title="Hinweis zu farben auswahl" className="tab"   >
                           <Farbenhinweis />
                         </Tab>
                         <Tab eventKey="farbauswahl" title="Farbauswahl">
