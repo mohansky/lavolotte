@@ -14,9 +14,8 @@ export default function Aktuelles() {
               <div className="col-lg-8 col-sm-10 mb-5">
                 <div className="content">
                   <p>
-                    Vom 1.-4.Juni sind wir im Pfingsturlaub. Also noch schnell
-                    heute oder morgen mit den schönen Sommergarnen eindecken! Am
-                    8. Juni sind wir wieder da!
+                  Liebe Kundinnen! <br/>
+                  Vom 10. August bis einschließlich 31. August machen wir Sommerpause! Wer noch schnell was braucht, kann gerne morgen, am 6. August von 11-15 Uhr kommen! Allen eine gute Zeit, ein schönes Strickzeug in der Hand und für den Herbst viele neue Ideen! 
                   </p>
                 </div>
               </div>
