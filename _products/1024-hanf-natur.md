@@ -2,7 +2,7 @@
 title: "Hanf natur"
 date: 2019-10-17T11:22:16+06:00
 draft: false
-categories: "atelier-zitron"
+category: "atelier-zitron"
 tags: ["Schurwolle", "Hanf"]	
 nadels: [ "3,0", "3,5"]
 nadel: "3,0-3,5" 

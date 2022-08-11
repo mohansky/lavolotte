@@ -2,7 +2,7 @@
 title: "Zauberwolle"
 date: 2019-10-17T11:22:16+06:00
 draft: false
-categories: "schoppel"
+category: "schoppel"
 tags: ["Schurwolle" ]
 nadels: [ "3,0", "3,5"]
 nadel: "3,0-3,5" 

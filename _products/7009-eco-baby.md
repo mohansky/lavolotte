@@ -2,7 +2,7 @@
 title: "Eco Baby"
 date: 2019-10-17T11:22:16+06:00
 draft: false
-categories: "isager"
+category: "isager"
 tags: [  "Alpaka", "Bio-Baumwolle", "3.0-4.0" ]
 nadels: ["4,0","3,0", "3,5"]
 nadel: "4,0-5,5" 

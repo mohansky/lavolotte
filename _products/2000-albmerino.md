@@ -2,7 +2,7 @@
 title: "Albmerino"
 date: 2019-10-17T11:22:16+06:00
 draft: false
-categories: "schoppel"
+category: "schoppel"
 tags: ["Schurwolle", "5.0-6.0"]
 nadels: [ "5,0", "5,5", "6,0"]
 nadel: "5,0-6,0" 

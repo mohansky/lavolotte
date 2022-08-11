@@ -2,7 +2,7 @@
 title: "Patina"
 date: 2019-10-17T11:22:16+06:00
 draft: true
-categories: "atelier-zitron"
+category: "atelier-zitron"
 tags: ["Schurwolle", "Viscose"]	
 nadels: ["3,5", "4,0"]
 nadel: "3,5-4,0" 

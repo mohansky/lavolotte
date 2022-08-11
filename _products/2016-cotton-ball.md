@@ -2,7 +2,7 @@
 title: "Cotton Ball"
 date: 2019-10-17T11:22:16+06:00
 draft: false
-categories: "schoppel"
+category: "schoppel"
 tags: ["Baumwolle", "2.0-3.0"]
 nadels: [ "2,0", "2,5", "3,0"]
 nadel: "2,0-3,0" 

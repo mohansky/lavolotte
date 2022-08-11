@@ -2,7 +2,7 @@
 title: "Eco Denim"
 date: 2019-10-17T11:22:16+06:00
 draft: false
-categories: "mondial"
+category: "mondial"
 tags: ["Baumwolle-recycling"]
 nadels: ["2,5","3,0", "3,5"]
 nadel: "2,5-3,5" 

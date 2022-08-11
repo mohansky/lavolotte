@@ -2,7 +2,7 @@
 title: "Wind und Wetter"
 date: 2019-10-17T11:22:16+06:00
 draft: false
-categories: "atelier-Zitron"
+category: "atelier-Zitron"
 tags: ["Schurwolle"]	
 nadels: ["8,0","9,0"]
 nadel: "8,0-9,0" 
