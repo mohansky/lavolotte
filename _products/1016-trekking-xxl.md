@@ -32,7 +32,7 @@ productID: "1016"
 type: "products"
 
 # type must be "products"
-brand: "atelier-zitron"
+brand: "Atelier Zitron"
 img: "/images/products/atelier-zitron/trekking-xxl-1.jpg"   
 
 # product Images
