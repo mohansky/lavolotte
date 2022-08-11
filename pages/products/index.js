@@ -20,7 +20,8 @@ export default function Products({ allProducts }) {
     }
 
     const filteredProduct = filteredData.filter(
-      (product) => product.category.split(" ").indexOf(selectedCategory) !== -1
+      (product) => product.category.split(" ").toString().toLowerCase().indexOf(selectedCategory) !== -1
+      // (product) => product.category.split(" ").indexOf(selectedCategory) !== -1
     );
     return filteredProduct;
   };
@@ -31,7 +32,8 @@ export default function Products({ allProducts }) {
     }
 
     const filteredProduct = filteredData.filter(
-      (product) => product.tags.indexOf(selectedTags) !== -1
+      (product) => product.tags.toString().toLowerCase().indexOf(selectedTags) !== -1
+      // (product) => product.tags.indexOf(selectedTags) !== -1
     );
     return filteredProduct;
   };
